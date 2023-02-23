@@ -1,3 +1,3 @@
-Lovette
-Nigeria
-Database Engineer
+FirstName: Lovette
+Location: Nigeria
+Certification: Database Engineer
